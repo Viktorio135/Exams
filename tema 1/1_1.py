@@ -60,8 +60,3 @@ class LinkedList:
 
 
 
-lst = LinkedList()
-lst.add_obj(ObjList('asdasd1'))
-lst.add_obj(ObjList('asdasd2'))
-lst.add_obj(ObjList('asdasd3'))
-lst.get_data()

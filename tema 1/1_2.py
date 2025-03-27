@@ -67,6 +67,5 @@ class GamePole:
         return new_matrix
 
 
-c = GamePole(10, 12)
 
 

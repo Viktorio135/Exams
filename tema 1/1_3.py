@@ -46,15 +46,4 @@ class Data:
 
 
 
-# router = Router()
-# s1 = Server()
-# s2 = Server()
-# router.link(s1)
-# router.link(s2)
-# data1 = Data('test1', 2)
-# s1.send_data(data1)
-# router.send_data()
-# print(s2.buffer)
-# s2.get_data()
-# print(s2.buffer)
 
