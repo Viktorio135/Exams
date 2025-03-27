@@ -1,5 +1,4 @@
 import random
-import copy
 
 class Cell:
     def __init__(self, around_mines, mine):
